@@ -1,0 +1,22 @@
+{
+  "name": "javascript-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachcoss/javascript-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachcoss/javascript-questions/issues"
+  },
+  "homepage": "https://github.com/zachcoss/javascript-questions#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
